@@ -21635,7 +21635,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 88.9 175.895 0)
+		(at 104.14 175.26 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -21646,7 +21646,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006384d3cc")
 		(property "Reference" "TP4"
-			(at 87.4268 172.8978 0)
+			(at 102.6668 172.2628 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21657,7 +21657,7 @@
 			)
 		)
 		(property "Value" "TP_3V3"
-			(at 87.4268 175.2092 0)
+			(at 102.6668 174.5742 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21668,7 +21668,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
-			(at 83.82 175.895 0)
+			(at 99.06 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21679,7 +21679,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 83.82 175.895 0)
+			(at 99.06 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21690,7 +21690,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 88.9 175.895 0)
+			(at 104.14 175.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21700,7 +21700,7 @@
 			)
 		)
 		(property "LCSC Part #" ""
-			(at 88.9 175.895 0)
+			(at 104.14 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
